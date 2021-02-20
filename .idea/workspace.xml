@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="026ff052-419c-4ec6-a100-8e89b85ffa78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bookStore_oauth-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/golang-restclient" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/application.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/cassandra/cassandra_db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/access_token/access_tocken_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/access_token/access_token.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/access_token/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/users/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/http/http_access_token.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/db/db_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/rest/user_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/rest/users_repository_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/errors/rest_errors.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://C:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1izN5hV7AImhUNgtmzK6UDPTaTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\go\src\github.com\aman1695\bookStore_oauth-api\src\http" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\go\src\github.com\aman1695\bookStore_oauth-api\src\utils\errors" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestLoginUserTimeoutFromApi in github.com/aman1695/bookStore_oauth-api/src/repository/rest (2)">
+    <configuration name="go build github.com/aman1695/bookStore_oauth-api/src" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bookStore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/main.go" />
+      <package value="github.com/aman1695/bookStore_oauth-api/src" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLoginUserTimeoutFromApi in github.com/aman1695/bookStore_oauth-api/src/repository/rest (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookStore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$/src/repository/rest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/aman1695/bookStore_oauth-api/src/repository/rest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestLoginUserTimeoutFromApi\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLoginUserTimeoutFromApi in github.com/aman1695/bookStore_oauth-api/src/repository/rest (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookStore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$/src/repository/rest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/aman1695/bookStore_oauth-api/src/repository/rest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestLoginUserTimeoutFromApi\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLoginUserTimeoutFromApi in github.com/aman1695/bookStore_oauth-api/src/repository/rest" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookStore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$/src/repository/rest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/aman1695/bookStore_oauth-api/src/repository/rest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestLoginUserTimeoutFromApi\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/aman1695/bookStore_oauth-api/src/repository/rest" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookStore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$/src/repository/rest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/aman1695/bookStore_oauth-api/src/repository/rest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestLoginUserTimeoutFromApi in github.com/aman1695/bookStore_oauth-api/src/repository/rest (2)" />
+        <item itemvalue="Go Test.TestLoginUserTimeoutFromApi in github.com/aman1695/bookStore_oauth-api/src/repository/rest (1)" />
+        <item itemvalue="Go Test.go test github.com/aman1695/bookStore_oauth-api/src/repository/rest" />
+        <item itemvalue="Go Test.TestLoginUserTimeoutFromApi in github.com/aman1695/bookStore_oauth-api/src/repository/rest" />
+        <item itemvalue="Go Build.go build github.com/aman1695/bookStore_oauth-api/src" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bookStore_oauth_api$go_test_github_com_aman1695_bookStore_oauth_api_src_domain_access_token.out" NAME="go test github.com/aman1695/bookStore_oauth-api/src/domain/access_token Coverage Results" MODIFIED="1602910740188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
